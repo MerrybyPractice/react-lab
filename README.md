@@ -1,3 +1,35 @@
+# React Lab
+
+## Number and name of feature: Render Counter
+
+Estimate of time needed to complete: 1.5 hours
+
+Start time: 3:08
+
+Finish time: 3:42
+
+Actual time needed to complete: 34 mins 
+
+## Number and name of feature: Increment Counter
+
+Estimate of time needed to complete: 30 mins
+
+Start time: 3:08
+
+Finish time: 3:42
+
+Actual time needed to complete: 34 mins
+
+## Number and name of feature: Decrement Counter
+
+Estimate of time needed to complete: 30 mins
+
+Start time: 3:08
+
+Finish time: 3:42
+
+Actual time needed to complete: 34 mins
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
